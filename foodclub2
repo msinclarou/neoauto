@@ -1,0 +1,11 @@
+import time
+import pyautogui
+import webbrowser
+
+
+url = "https://old.reddit.com/user/nsheng"
+# chromepPath = 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
+# chromepPath2 = 'chrome'
+webbrowser.open(url)  # Open the URL in the default web browser.
+
+

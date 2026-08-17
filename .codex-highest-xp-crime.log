@@ -1,0 +1,135 @@
+2026-08-14T14:45:20.6834450-05:00 Highest-XP crime worker started.
+2026-08-14T14:45:22.3027498-05:00 Attempted 'Mug a Pedestrian' (+15 XP target): {"success":true,"critical":false,"cashEarned":"665","xpEarned":15,"tokensEarned":2,"cooldown":72,"levelUp":null}
+2026-08-14T14:46:36.4706232-05:00 Attempted 'Mug a Pedestrian' (+15 XP target): {"success":true,"critical":false,"cashEarned":"871","xpEarned":15,"tokensEarned":3,"cooldown":72,"levelUp":{"newLevel":4,"newRank":"Runner"}}
+2026-08-14T14:47:49.6774482-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1827","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:49:14.9752129-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1072","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:50:41.2960954-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1466","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:52:07.5026113-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1872","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:53:32.6792230-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1336","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T14:54:57.9736016-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"672","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T14:56:24.2991138-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1646","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:57:50.5081390-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1702","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T14:59:15.6552876-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"948","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T15:00:40.9475479-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1996","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T15:02:07.3555526-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1368","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T15:03:33.6488090-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1267","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T15:04:58.8199544-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":false,"jailTime":80,"reputation":"Nobody","cooldown":84}
+2026-08-14T15:05:00.0261571-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T15:05:35.8230571-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T15:06:06.0451128-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T15:06:36.8359506-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1565","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:36:07.6494518-05:00 Highest-XP crime worker started.
+2026-08-14T17:36:09.2508029-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1816","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:37:35.4501553-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1638","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T17:39:00.7401794-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1706","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T17:40:26.1039275-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"811","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T17:41:52.2693568-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1268","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:43:18.4675523-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1772","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T17:44:43.6707235-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"827","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T17:46:08.8797176-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":false,"jailTime":85,"reputation":"Nobody","cooldown":84}
+2026-08-14T17:46:10.0725706-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:46:40.2817817-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:47:10.4784624-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:47:41.2656035-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":false,"jailTime":75,"reputation":"Nobody","cooldown":84}
+2026-08-14T17:47:42.5105836-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:48:12.7076483-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:48:42.9144016-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:49:13.7218467-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1720","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T17:50:38.8838828-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1835","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:52:05.0852276-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1706","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:53:31.2896402-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"753","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T17:54:57.4462228-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1003","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T17:56:22.6283094-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"541","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T17:57:47.8127613-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1002","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T17:59:14.0061113-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1023","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T18:00:40.1702732-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1932","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T18:02:06.3248759-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1056","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T18:03:32.4311831-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"2137","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T18:04:57.5739318-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1937","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T18:06:22.7527275-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"766","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T18:07:47.9031108-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"632","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T18:09:14.0665608-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1831","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T18:10:40.2194208-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1873","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T18:12:06.3912177-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":true,"cashEarned":"2710","xpEarned":25,"tokensEarned":6,"cooldown":84,"levelUp":null}
+2026-08-14T18:13:31.6155442-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"607","xpEarned":17,"tokensEarned":2,"cooldown":84,"levelUp":null}
+2026-08-14T18:14:56.7673239-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"2221","xpEarned":17,"tokensEarned":4,"cooldown":84,"levelUp":null}
+2026-08-14T18:16:21.9034621-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"642","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":null}
+2026-08-14T18:17:48.1084733-05:00 Attempted 'Three-Card Monte' (+17 XP target): {"success":true,"critical":false,"cashEarned":"1348","xpEarned":17,"tokensEarned":3,"cooldown":84,"levelUp":{"newLevel":5,"newRank":"Hustler"}}
+2026-08-14T18:19:14.2920854-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2161","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-14T18:21:04.8181990-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"5472","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-14T18:22:55.4746390-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":true,"cashEarned":"6772","xpEarned":37,"tokensEarned":8,"cooldown":108,"levelUp":null}
+2026-08-14T18:24:44.9687464-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4085","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-14T18:26:35.4974435-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4127","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-14T18:28:24.9989012-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"5005","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-14T18:30:15.7687605-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2343","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-14T18:32:06.4259898-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"1488","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-14T18:33:56.0650371-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4111","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-14T18:35:46.7015947-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4537","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:19:35.6163651-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2053","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:21:26.2890513-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":87,"reputation":"Nobody","cooldown":108}
+2026-08-15T13:21:27.4982065-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:23:15.7300933-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":109,"reputation":"Nobody","cooldown":108}
+2026-08-15T13:23:16.9413485-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:23:47.1164933-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:24:17.3347227-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:24:47.5282509-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:25:18.2881618-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4486","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-15T13:27:07.9497121-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":104,"reputation":"Nobody","cooldown":108}
+2026-08-15T13:27:09.1369355-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:28:57.3001581-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2145","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:30:46.9108928-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":96,"reputation":"Nobody","cooldown":108}
+2026-08-15T13:30:48.1145298-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:31:18.3185811-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:31:48.5111713-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:32:18.7012610-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:32:49.5114477-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"1447","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T13:34:39.9996570-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3562","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-15T13:36:30.4997618-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3517","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-15T13:38:21.2152341-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"5337","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T13:40:10.8941451-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2183","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:42:01.5207027-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"1431","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T13:43:52.1706771-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":true,"cashEarned":"7610","xpEarned":37,"tokensEarned":6,"cooldown":108,"levelUp":null}
+2026-08-15T13:45:42.2893336-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"5071","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:47:31.7933632-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"1886","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:49:22.5070365-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3521","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T13:51:13.2480407-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3683","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-15T13:53:02.9905316-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":89,"reputation":"Nobody","cooldown":108}
+2026-08-15T13:53:04.2020285-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:53:34.4096295-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:54:04.6130219-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:54:52.8101695-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2117","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:56:43.5043426-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2643","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-15T13:58:34.1150627-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3626","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T14:00:23.7103044-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3931","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T14:02:14.3278878-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3503","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T14:04:03.9801481-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"3148","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-15T14:05:54.4698928-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"5653","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T20:50:14.2579002-05:00 Status error: The remote name could not be resolved: 'commoncriminals.ai'; retrying in 30 seconds.
+2026-08-16T20:50:45.5687243-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2344","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:29:21.9649327-05:00 Highest-XP crime worker started.
+2026-08-16T22:29:23.3390526-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"1357","xpEarned":25,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:31:12.9216679-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":80,"reputation":"Known","cooldown":108}
+2026-08-16T22:31:14.1305471-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-16T22:33:03.3059545-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":false,"jailTime":79,"reputation":"Known","cooldown":108}
+2026-08-16T22:33:04.5354615-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-16T22:33:34.7445207-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-16T22:34:04.9476486-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-16T22:34:53.1094910-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"4005","xpEarned":25,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:36:43.8161516-05:00 Attempted 'Steal a Car' (+25 XP target): {"success":true,"critical":false,"cashEarned":"2399","xpEarned":25,"tokensEarned":3,"cooldown":108,"levelUp":{"newLevel":6,"newRank":"Hustler"}}
+2026-08-16T22:38:34.5043608-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3051","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:40:24.2832915-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3307","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:42:13.7751413-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"2743","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:44:04.5116430-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"5723","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:45:54.0582295-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3140","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:47:44.7141890-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"2055","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:49:35.3278603-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3094","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T22:51:25.0069877-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"5900","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:53:15.6563299-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"5148","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T22:55:06.3026742-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"2528","xpEarned":30,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-16T22:56:55.9927500-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"4191","xpEarned":30,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-16T22:58:46.7159333-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"4561","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T23:00:37.3620617-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3020","xpEarned":30,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-16T23:02:27.0160000-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"3515","xpEarned":30,"tokensEarned":3,"cooldown":108,"levelUp":null}
+2026-08-16T23:04:17.6837606-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"4517","xpEarned":30,"tokensEarned":4,"cooldown":108,"levelUp":null}
+2026-08-16T23:06:08.3702612-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"1787","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}
+2026-08-16T23:07:58.0476498-05:00 Attempted 'Knockoff Designer Bags' (+30 XP target): {"success":true,"critical":false,"cashEarned":"4306","xpEarned":30,"tokensEarned":2,"cooldown":108,"levelUp":null}

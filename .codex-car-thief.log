@@ -1,0 +1,47 @@
+2026-08-14T14:36:05.6399441-05:00 Automatic car thief started (location=Collector's District).
+2026-08-14T14:37:15.3214098-05:00 Theft attempted: {"stolen":true,"message":"You stole a Ceres from the Collector\u0027s District! (Rare, 52% condition)","car":{"name":"Ceres","tier":3,"condition":52,"value":"120000"},"location":"collectors"}
+2026-08-14T14:42:17.4081503-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":2,"location":"collectors"}
+2026-08-14T14:47:19.4886962-05:00 Theft attempted: {"stolen":true,"message":"You stole an Aurora-94 from the Collector\u0027s District! (Rare, 51% condition)","car":{"name":"Aurora-94","tier":3,"condition":51,"value":"150000"},"location":"collectors"}
+2026-08-14T14:52:21.6035600-05:00 Theft attempted: {"stolen":true,"message":"You stole a Cybele-65 from the Collector\u0027s District! (Rare, 82% condition)","car":{"name":"Cybele-65","tier":3,"condition":82,"value":"200000"},"location":"collectors"}
+2026-08-14T14:57:23.6753350-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-14T15:02:25.7371744-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":5,"location":"collectors"}
+2026-08-14T17:36:07.6449026-05:00 Automatic car thief started (location=Collector's District).
+2026-08-14T17:36:08.9660717-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":4,"location":"collectors"}
+2026-08-14T17:41:11.0410129-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":5,"location":"collectors"}
+2026-08-14T17:46:12.5728035-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:46:42.7761292-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:47:12.9707002-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:47:43.1707719-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:48:13.3764355-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:48:43.5710661-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-14T17:49:14.3047148-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-14T17:54:16.3972506-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-14T17:59:18.4814043-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":5,"location":"collectors"}
+2026-08-14T18:04:20.5646980-05:00 Theft attempted: {"stolen":true,"message":"You stole a Centauri from the Collector\u0027s District! (Rare, 81% condition)","car":{"name":"Centauri","tier":3,"condition":81,"value":"180000"},"location":"collectors"}
+2026-08-14T18:09:22.6675930-05:00 Theft attempted: {"stolen":true,"message":"You stole a Mercurio from the Collector\u0027s District! (Epic, 80% condition)","car":{"name":"Mercurio","tier":4,"condition":80,"value":"520000"},"location":"collectors"}
+2026-08-14T18:14:24.7546051-05:00 Theft attempted: {"stolen":true,"message":"You stole an Eros from the Collector\u0027s District! (Epic, 79% condition)","car":{"name":"Eros","tier":4,"condition":79,"value":"480000"},"location":"collectors"}
+2026-08-14T18:19:26.8579887-05:00 Theft attempted: {"stolen":true,"message":"You stole an Orion from the Collector\u0027s District! (Legendary, 100% condition)","car":{"name":"Orion","tier":5,"condition":100,"value":"2500000"},"location":"collectors"}
+2026-08-14T18:24:28.9257102-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-14T18:29:30.9922711-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":5,"location":"collectors"}
+2026-08-14T18:34:33.0570242-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-15T13:21:33.8893404-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:22:04.6418399-05:00 Theft attempted: {"stolen":true,"message":"You stole a Psyche from the Collector\u0027s District! (Epic, 98% condition)","car":{"name":"Psyche","tier":4,"condition":98,"value":"650000"},"location":"collectors"}
+2026-08-15T13:27:06.6873607-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":4,"location":"collectors"}
+2026-08-15T13:32:08.2655965-05:00 Paused while state=JAIL; checking again in 30 seconds.
+2026-08-15T13:32:39.0152479-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":4,"location":"collectors"}
+2026-08-15T13:37:41.0915863-05:00 Theft attempted: {"stolen":true,"message":"You stole an Eros from the Collector\u0027s District! (Epic, 95% condition)","car":{"name":"Eros","tier":4,"condition":95,"value":"480000"},"location":"collectors"}
+2026-08-15T13:42:43.1682634-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":3,"location":"collectors"}
+2026-08-15T13:47:45.2464090-05:00 Theft attempted: {"stolen":true,"message":"You stole a Stellar from the Collector\u0027s District! (Legendary, 57% condition)","car":{"name":"Stellar","tier":5,"condition":57,"value":"3500000"},"location":"collectors"}
+2026-08-15T13:52:47.3558241-05:00 Theft attempted: {"stolen":true,"message":"You stole a Psyche from the Collector\u0027s District! (Epic, 87% condition)","car":{"name":"Psyche","tier":4,"condition":87,"value":"650000"},"location":"collectors"}
+2026-08-15T13:57:49.4281097-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":4,"location":"collectors"}
+2026-08-15T14:02:51.5108733-05:00 Theft attempted: {"stolen":true,"message":"You stole a Carinae from the Collector\u0027s District! (Uncommon, 91% condition)","car":{"name":"Carinae","tier":2,"condition":91,"value":"35000"},"location":"collectors"}
+2026-08-16T20:50:25.1438253-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":5,"location":"collectors"}
+2026-08-16T22:29:21.9328726-05:00 Automatic car thief started (location=Collector's District).
+2026-08-16T22:29:23.1717299-05:00 Theft attempted: {"stolen":false,"message":"You got spotted at the Collector\u0027s District and had to bail. No car stolen.","tier":2,"location":"collectors"}
+2026-08-16T22:34:25.2869465-05:00 Theft attempted: {"stolen":true,"message":"You stole a Ceres from the Collector\u0027s District! (Rare, 56% condition)","car":{"name":"Ceres","tier":3,"condition":56,"value":"120000"},"location":"collectors"}
+2026-08-16T22:39:27.6918404-05:00 Theft attempted: {"stolen":true,"message":"You stole a Cybele-65 from the Collector\u0027s District! (Rare, 51% condition)","car":{"name":"Cybele-65","tier":3,"condition":51,"value":"200000"},"location":"collectors"}
+2026-08-16T22:44:29.7538928-05:00 Theft attempted: {"stolen":true,"message":"You stole a Kuiper from the Collector\u0027s District! (Rare, 74% condition)","car":{"name":"Kuiper","tier":3,"condition":74,"value":"170000"},"location":"collectors"}
+2026-08-16T22:49:31.8373787-05:00 Theft attempted: {"stolen":true,"message":"You stole a Saturn from the Collector\u0027s District! (Epic, 100% condition)","car":{"name":"Saturn","tier":4,"condition":100,"value":"700000"},"location":"collectors"}
+2026-08-16T22:54:33.8956179-05:00 Theft attempted: {"stolen":true,"message":"You stole a Kuiper from the Collector\u0027s District! (Rare, 89% condition)","car":{"name":"Kuiper","tier":3,"condition":89,"value":"170000"},"location":"collectors"}
+2026-08-16T22:59:36.0100497-05:00 Theft attempted: {"stolen":true,"message":"You stole a Deimos from the Collector\u0027s District! (Legendary, 62% condition)","car":{"name":"Deimos","tier":5,"condition":62,"value":"2000000"},"location":"collectors"}
+2026-08-16T23:04:38.1427835-05:00 Theft attempted: {"stolen":true,"message":"You stole a Cybele-65 from the Collector\u0027s District! (Rare, 61% condition)","car":{"name":"Cybele-65","tier":3,"condition":61,"value":"200000"},"location":"collectors"}

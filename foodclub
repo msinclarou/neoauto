@@ -1,0 +1,61 @@
+import time
+import pyautogui
+import webbrowser
+
+
+url = "https://old.reddit.com/user/nsheng"
+# chromepPath = 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
+# chromepPath2 = 'chrome'
+webbrowser.open(url)  # Open the URL in the default web browser.
+
+
+# Enter the URL and navigate to it.
+
+#nsheng
+pyautogui.moveTo(142, 1015, duration=2)  # Move the mouse to a safe location.
+pyautogui.click()  # Click to focus the browser window.
+
+#bets website
+pyautogui.moveTo(67, 367, duration=2)  # Move the mouse to a safe location.
+pyautogui.click()  # Click to focus the browser window.
+
+# food club
+pyautogui.moveTo(1228, 456, duration=2)  # 1
+pyautogui.click()
+
+
+# pyautogui.moveTo(1228, 500)  # 2
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 546)  # 3
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 579)  # 4
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.          
+
+# pyautogui.moveTo(1228, 619)  # 5
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 659)  # 6
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 701)  # 7
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.  
+
+# pyautogui.moveTo(1228, 747)  # 8
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 783)  # 9
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.
+
+# pyautogui.moveTo(1228, 828)  # 10
+# pyautogui.sleep(2)
+# pyautogui.click(button='middle')  # Click to focus the browser window.

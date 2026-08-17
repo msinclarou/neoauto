@@ -1,0 +1,1 @@
+Start-Process "https://www.neopets.com/trudys_surprise.phtml"

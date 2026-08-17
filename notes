@@ -1,0 +1,22 @@
+use npx playwright --version
+
+npx playwright to call upon playwright
+
+to look at ui trace
+ playwright test --ui 
+
+ playwright codegen demo.playwright.dev/todomvc
+    make trace then copy and paste it into test
+
+npx playwright show-report
+
+
+npx playwright test --headed
+
+npx playwright test nsheng.spec.js --headed
+
+npx playwright test nsheng.spec.js --headed --project chromium
+
+cant login. gotta use debugg chrome mode.
+
+maybe gotta use selenium
